@@ -1,0 +1,35 @@
+body{
+    font-family: 'Sanchez', serif;
+    font-size: 20px;
+    background-color:rgb(238, 238, 238);
+}
+
+.w3-top{
+    font-family: 'Comfortaa', cursive;
+}
+.w3-display-middle {
+    font-family: 'Comfortaa', cursive;
+}
+
+.button-ghost-blue {
+    background-color: transparent;
+    border: 1px solid #003595;
+    border-top-color: rgb(0, 53, 149);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(0, 53, 149);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(0, 53, 149);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(0, 53, 149);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-outset: initial;
+    border-image-width: initial;
+    border-image-repeat: initial;
+    border-image-slice: initial;
+    color:#003595;
+}
